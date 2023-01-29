@@ -1,7 +1,8 @@
 <h1 align ="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate Backend learner</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ErenBilgenn)](https://github.com/ErenBilgenn/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ErenBilgenn" alt="ErenBilgenn" /></a> </p>
+
 
 -🌱I’m currently learning Java
 
