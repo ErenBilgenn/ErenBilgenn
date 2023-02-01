@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ErenBilgenn" alt="ErenBilgenn" /></a> </p>
 
 
--🌱I’m currently learning Java
+-🌱I’m currently learning **Java**
 
 -📫How to reach me: erenbilgenn@gmail.com
 
